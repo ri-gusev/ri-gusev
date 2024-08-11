@@ -4,7 +4,7 @@ Hi 👋 My name is Roman Gusev
 I want to be android developer
 ------------------------------
 
-I’ve been learning code for 1 year. I started with Python, I was doing telegram bots and trying to do something with Flask. Also I tried myself in frontend development, I started with html and css, but then I found a passion for android development. I’m currently learning Java for Android and in the near future I plan to learn Kotlin
+I’ve been learning code for 1 year. I started with Python, I was doing telegram bots and trying to do something with Flask. Also I tried myself in frontend development, I learned basics of html and css, but then I found a passion for android development. I’m currently learning Java for Android and in the near future I plan to learn Kotlin
 
 *   🌍  I'm based in Russia, Nizhniy Novgorod
 *   ✉️  You can contact me at [gusev.roman1@mail.ru](mailto:gusev.roman1@mail.ru ) 
