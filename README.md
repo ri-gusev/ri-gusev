@@ -43,7 +43,7 @@ I’ve been learning code for 1 year. I started with Python, I was doing telegra
                     </picture>
                     </a></p> 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ri-gusev&layout=compact)
 
 
                   
