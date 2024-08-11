@@ -43,10 +43,7 @@ I’ve been learning code for 1 year. I started with Python, I was doing telegra
                     </picture>
                     </a></p> 
 
-<b>My GitHub Stats</b>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default)
-</a>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
                   
