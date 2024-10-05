@@ -8,7 +8,7 @@ I’ve been learning code for 1 year. I started with Python, I was doing telegra
 
 *   🌍  I'm based in Russia, Nizhniy Novgorod
 *   ✉️  You can contact me at [gusev.roman1@mail.ru](mailto:gusev.roman1@mail.ru ) 
-*   🧠  I'm learning Concurrency in Java
+*   🧠  I'm learning Stream API in Java
   
    
 <a href="https://www.x.com/RiGusev" target="_blank" rel="noreferrer"><img
