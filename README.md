@@ -16,7 +16,7 @@ I’ve been learning code for 1 year. I started with Python, I was doing telegra
                 />
                 </a>
 
-[![My Skills](https://skillicons.dev/icons?i=java,xml,android,python,html,bots,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,bots,figma)](https://skillicons.dev)
 
  Socials
                   
